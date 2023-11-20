@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-20 at 18 42 32](https://github.com/rahuldev-bits/FLUTTER-TASK-MANAGER/assets/118092607/8d000251-0128-46b8-8f2b-0df2b4ecac28)# Flutter-Task-Manager
+# Flutter-Task-Manager
 
 This is a daily task manager application project created in Flutter. I've used vsCode in a Apple machine. So, sharing the steps for the same. 
 
@@ -33,3 +33,5 @@ Step-4: Run flutter project -
 
 1. Flutter app development on VSCode
 2. Back4app as BaaS that helps with the backend and database part
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-20 at 18 42 32](https://github.com/rahuldev-bits/FLUTTER-TASK-MANAGER/assets/118092607/8d000251-0128-46b8-8f2b-0df2b4ecac28)
